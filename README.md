@@ -1,1 +1,3 @@
 # Tipcalculator
+Write a tip calculator activity. The user inputs the percent they wish to tip. They type into a text field the amount that they wish to tip on. When they click on a “Submit” button the amount of the tip and the total amount (tip plus original amount) are displayed. Use any components you would like and make the functionality work in any way that you wish. You may also change the theme so it’s a calculator for something other then a tip. Display a text field that accept a tip amount along with some selection for a percentage and then some display of the total. The app needs to be created using Java.
+Use any components you would like and make the functionality work in any way that you wish.
